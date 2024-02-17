@@ -1,4 +1,4 @@
-#This is a simple quicksort algorithm implementaion in C language :)
+# This is a simple quicksort algorithm implementaion in C language :)
 
-##I hope it's commented enough so that reader can get it :)
+## I hope it's commented enough so that reader can get it :)
 	
